@@ -1,4 +1,4 @@
-#pragma once
+
 #ifndef READINT_H_
 #define READINT_H_
 #include <string>
